@@ -1,7 +1,7 @@
 ### Hello, I'm Pedro!
 
 - 📒 I’m currently studying Information Systems at [UFRPE](https://www.ufrpe.br/).
-- ☕ I'm actually working as a projects analist in [Seed A Bit Tecnologia](https://seedabit.org.br/).
+- ☕ I'm actually working as a projects analist at [Seed A Bit Tecnologia](https://seedabit.org.br/).
 - 💻 I love technology and what it can do!
 
 ## Languages
