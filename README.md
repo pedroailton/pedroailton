@@ -1,7 +1,7 @@
 ### Hello, I'm Pedro!
 
 - 📒 I’m currently studying __Information Systems__ at __[UFRPE](https://www.ufrpe.br/)__.
-- ☕ I'm actually working as a __Projects Analist__ at __[Seed A Bit Tecnologia](https://seedabit.org.br/)__.
+- ☕ I'm actually working as a __Web Developer__ at __[MachLeV - Smart Applications](https://www.linkedin.com/company/machlev-smart-applications/?originalSubdomain=br)__.
 
 ## Stacks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
